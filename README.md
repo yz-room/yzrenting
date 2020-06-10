@@ -1,2 +1,2 @@
 # yzrenting
-rent a hourse
+rent a house
